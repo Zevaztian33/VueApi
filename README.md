@@ -1,5 +1,19 @@
-<<<<<<< HEAD
-# prueba_vue_api
+(Imagenes de muestra)
+HOME:
+<img src="./src/assets/muestraHome.png">
+
+MODAL-Ficha Amiibo:
+<img src="./src/assets/muestraModal.png">
+
+SECCION FAVORITOS:
+<img src="./src/assets/muestraFavoritos.png">
+
+SECCION OPINIONES:
+<img src="./src/assets/muestraOpiniones.png">
+
+SECCION ADMINISTRACION:
+<img src="./src/assets/muestraAdmin.png">
+
 
 ## Project setup
 ```
@@ -28,7 +42,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
 # VueApi
 Prueba (Desafío Curso): "Vue+Api"
->>>>>>> 6e23ad84504bec0d91d2f1f2ef77255fdcbfb58f
